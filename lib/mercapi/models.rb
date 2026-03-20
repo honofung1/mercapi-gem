@@ -1,0 +1,16 @@
+# frozen_string_literal: true
+
+require_relative "models/base"
+require_relative "models/item_condition"
+require_relative "models/color"
+require_relative "models/shipping"
+require_relative "models/comment"
+require_relative "models/item_category"
+require_relative "models/seller"
+require_relative "models/profile"
+require_relative "models/auction"
+require_relative "models/search_result_item"
+require_relative "models/search_results"
+require_relative "models/item"
+require_relative "models/seller_item"
+require_relative "models/items"

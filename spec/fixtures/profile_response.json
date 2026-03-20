@@ -1,0 +1,36 @@
+{
+  "result": "OK",
+  "data": {
+    "id": "123456",
+    "name": "game_seller_jp",
+    "photo_url": "https://static.mercdn.net/images/member/photo/123456.jpg",
+    "photo_thumbnail_url": "https://static.mercdn.net/thumb/members/123456.jpg",
+    "register_sms_confirmation": "verified",
+    "ratings": {
+      "good": 150,
+      "normal": 5,
+      "bad": 1
+    },
+    "polarized_ratings": {
+      "good": 155,
+      "bad": 1
+    },
+    "num_ratings": 156,
+    "star_rating_score": 5,
+    "is_followable": true,
+    "is_blocked": false,
+    "following_count": 10,
+    "follower_count": 85,
+    "score": 149,
+    "created": 1600000000,
+    "proper": true,
+    "introduction": "Thank you for visiting my shop! I sell quality used games.",
+    "is_official": false,
+    "num_sell_items": 42,
+    "num_ticket": 0,
+    "bounce_mail_flag": "0",
+    "current_point": 0,
+    "current_sales": 0,
+    "is_organizational_user": false
+  }
+}

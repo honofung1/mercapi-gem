@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "nextPageToken": "v1:120",
+    "previousPageToken": "",
+    "numFound": "2456"
+  },
+  "items": [
+    {
+      "id": "m12345678",
+      "name": "Nintendo Switch Console",
+      "price": "32000",
+      "sellerId": "123456",
+      "status": "ITEM_STATUS_ON_SALE",
+      "created": 1700000000,
+      "updated": 1700100000,
+      "thumbnails": ["https://static.mercdn.net/item/detail/orig/photos/m12345678_1.jpg"],
+      "itemType": "ITEM_TYPE_MERCARI",
+      "itemConditionId": 2,
+      "shippingPayerId": 2,
+      "shippingMethodId": 1,
+      "categoryId": 945,
+      "isNoPrice": false,
+      "auction": {
+        "id": "a98765432",
+        "bidDeadline": "2026-03-20T12:00:00Z",
+        "totalBid": "8",
+        "highestBid": "32000"
+      }
+    },
+    {
+      "id": "m87654321",
+      "name": "Nintendo Switch Lite",
+      "price": "18000",
+      "sellerId": "654321",
+      "status": "ITEM_STATUS_ON_SALE",
+      "created": 1699900000,
+      "updated": 1699950000,
+      "thumbnails": ["https://static.mercdn.net/item/detail/orig/photos/m87654321_1.jpg"],
+      "itemType": "ITEM_TYPE_MERCARI",
+      "itemConditionId": 3,
+      "shippingPayerId": 2,
+      "shippingMethodId": 1,
+      "categoryId": 945,
+      "isNoPrice": false
+    }
+  ]
+}

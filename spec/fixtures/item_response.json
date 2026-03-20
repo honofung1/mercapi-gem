@@ -1,0 +1,109 @@
+{
+  "result": "OK",
+  "data": {
+    "id": "m12345678",
+    "status": "on_sale",
+    "name": "Nintendo Switch Console",
+    "price": 32000,
+    "description": "Used Nintendo Switch in great condition. Comes with original box and all accessories.",
+    "seller": {
+      "id": 123456,
+      "name": "game_seller_jp",
+      "photo_url": "https://static.mercdn.net/images/member/photo/123456.jpg",
+      "photo_thumbnail_url": "https://static.mercdn.net/thumb/members/123456.jpg",
+      "register_sms_confirmation": "verified",
+      "created": 1600000000,
+      "num_sell_items": 42,
+      "ratings": {
+        "good": 150,
+        "normal": 5,
+        "bad": 1
+      },
+      "num_ratings": 156,
+      "score": 149,
+      "star_rating_score": 5,
+      "is_official": false,
+      "quick_shipper": true
+    },
+    "photos": ["https://static.mercdn.net/item/detail/orig/photos/m12345678_1.jpg"],
+    "photo_paths": ["photos/m12345678_1.jpg"],
+    "thumbnails": ["https://static.mercdn.net/thumb/photos/m12345678_1.jpg"],
+    "item_category": {
+      "id": 945,
+      "name": "Television game body",
+      "display_order": 0,
+      "parent_category_id": 76,
+      "parent_category_name": "Television game",
+      "root_category_id": 7,
+      "root_category_name": "Entertainment & Hobby"
+    },
+    "item_condition": {
+      "id": 2,
+      "name": "Near mint"
+    },
+    "colors": [],
+    "shipping_payer": {
+      "id": 2,
+      "name": "Shipping included (seller bears)",
+      "code": "seller"
+    },
+    "shipping_method": {
+      "id": 1,
+      "name": "Unspecified",
+      "is_deprecated": "false"
+    },
+    "shipping_from_area": {
+      "id": 13,
+      "name": "Tokyo"
+    },
+    "shipping_duration": {
+      "id": 2,
+      "name": "1~2 days after payment",
+      "min_days": 1,
+      "max_days": 2
+    },
+    "num_likes": 15,
+    "num_comments": 3,
+    "comments": [
+      {
+        "id": 1001,
+        "message": "Is this still available?",
+        "user": {
+          "id": 789012,
+          "name": "buyer_san",
+          "photo_url": "https://static.mercdn.net/images/member/photo/789012.jpg",
+          "photo_thumbnail_url": "https://static.mercdn.net/thumb/members/789012.jpg"
+        },
+        "created": 1700050000
+      }
+    ],
+    "updated": 1700100000,
+    "created": 1700000000,
+    "liked": false,
+    "checksum": "abc123def456",
+    "is_dynamic_shipping_fee": false,
+    "is_shop_item": "false",
+    "is_anonymous_shipping": true,
+    "is_web_visible": true,
+    "is_offerable": true,
+    "is_organizational_user": false,
+    "is_stock_item": false,
+    "is_cancelable": false,
+    "shipped_by_worker": false,
+    "has_additional_service": false,
+    "has_like_list": false,
+    "is_offerable_v2": true,
+    "auction_info": {
+      "id": "a98765432",
+      "start_time": 1700000000,
+      "expected_end_time": 1700086400,
+      "bid_deadline_duration_seconds": 300,
+      "bid_total_duration_seconds": 86400,
+      "total_bids": "12",
+      "initial_price": "25000",
+      "highest_bid": "32000",
+      "state": "active",
+      "auction_type": "standard"
+    }
+  }
+}
