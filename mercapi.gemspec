@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["honofung"]
   spec.summary = "Ruby client for the Mercari JP marketplace API"
   spec.description = "A Ruby gem that wraps Mercari.jp's marketplace API with DPoP-signed requests for searching items, fetching item details, seller profiles, and seller listings."
-  spec.homepage = "https://github.com/honofung/mercapi-gem"
+  spec.homepage = "https://github.com/honofung1/mercapi-gem"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.0.0"
 
